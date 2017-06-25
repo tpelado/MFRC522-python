@@ -1,5 +1,6 @@
 MFRC522-python
 ==============
+Now working with python 3 ! 
 
 A small class to interface with the NFC reader Module MFRC522 on the Raspberry Pi.
 
